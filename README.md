@@ -1,4 +1,4 @@
-![Banner](banner.png)
+![Banner](Banner.png)
 
 #  Bonjour, je suis **Oumoul Khairy AIDARA**
 
