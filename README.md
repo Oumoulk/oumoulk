@@ -1,5 +1,4 @@
 ![Banner](Banner.png)
-
 #  Bonjour, je suis **Oumoul Khairy AIDARA**
 
 ###  *Data Analyst spécialisée en Marketing, CRM & Retail Media*  
