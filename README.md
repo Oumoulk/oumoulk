@@ -1,11 +1,11 @@
-# 👋 Bonjour, je suis **Oumoul Khairy AIDARA**
+#  Bonjour, je suis **Oumoul Khairy AIDARA**
 
-### 📊 *Data Analyst spécialisée en Marketing, CRM & Retail Media*  
+###  *Data Analyst spécialisée en Marketing, CRM & Retail Media*  
 Passionnée par la donnée, le marketing digital et l’analyse du comportement consommateur, j’aide les entreprises à transformer leurs données en **insights actionnables** pour optimiser leurs performances (ventes, campagnes, CRM, satisfaction client…).
 
 ---
 
-## 🚀 **Ce que je sais faire**
+##  **Ce que je sais faire**
 - **Analyse de données** : SQL, Python (Pandas, Seaborn, Matplotlib), Excel avancé  
 - **Visualisation & Reporting** : Power BI, dashboards orientés business  
 - **Marketing Analytics** : ROAS, ROI, segmentation, attribution, analyse de performance  
@@ -14,7 +14,7 @@ Passionnée par la donnée, le marketing digital et l’analyse du comportement 
 
 ---
 
-## 📂 **Mes projets Data (GitHub Portfolio)**
+##  **Mes projets Data (GitHub Portfolio)**
 ### 🔹 [Projet 1 — Analyse des ventes par région & catégories (Excel Dashboard)](https://github.com/Oumoulk/data-portfolio/tree/main/ventes-par-region)
 > KPI business · Dashboard interactif · Analyse Marketing & Retail · Excel
 
@@ -25,7 +25,7 @@ Passionnée par la donnée, le marketing digital et l’analyse du comportement 
 
 ---
 
-## 🛠️ **Stack technique**
+##  **Stack technique**
 **Langages**  
 `Python` · `SQL` · `DAX`
 
@@ -40,7 +40,7 @@ Passionnée par la donnée, le marketing digital et l’analyse du comportement 
 
 ---
 
-## 🎯 **Mon objectif actuel**
+##  **Mon objectif actuel**
 Décrocher un **CDI en Data Analyst Marketing / CRM / Business Analyst**, où je pourrai :
 
 - apporter des analyses fiables & orientées business  
@@ -50,7 +50,7 @@ Décrocher un **CDI en Data Analyst Marketing / CRM / Business Analyst**, où je
 
 ---
 
-## 📬 **Me contacter**
+##  **Me contacter**
 📍 Paris, France  
 🔗 LinkedIn : [oumoul-khairy-aidara](https://www.linkedin.com/in/oumoul-khairy-aidara)  
 📧 Email : oumoul.khairy.aidara1@gmail.com  
